@@ -5,13 +5,13 @@ With this package, you can encrypt strings to the first part of the Bee Movie sc
 
 ▶️ This project is still under development and obviously don't use this as your secure encryption
 
-[Installation and use](https://github.com/Agent-Kwabbel/Beencrypted/edit/main/README.md#installation-and-use)
+[Installation and use](https://github.com/Agent-Kwabbel/Beencrypted#installation-and-use)
 
-[Examples](https://github.com/Agent-Kwabbel/Beencrypted/edit/main/README.md#examples)
+[Examples](https://github.com/Agent-Kwabbel/Beencrypted#examples)
 
-[Characters](https://github.com/Agent-Kwabbel/Beencrypted/edit/main/README.md#characters)
+[Characters](https://github.com/Agent-Kwabbel/Beencrypted#characters)
 
-[Contribution](https://github.com/Agent-Kwabbel/Beencrypted/edit/main/README.md#contribution)
+[Contribution](https://github.com/Agent-Kwabbel/Beencrypted#contribution)
 
 ### Installation and use
 
