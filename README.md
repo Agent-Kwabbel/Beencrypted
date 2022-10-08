@@ -5,22 +5,62 @@ With this package, you can encrypt strings to the first part of the Bee Movie sc
 
 ▶️ This project is still under development and obviously don't use this as your secure encryption
 
+[Installation and use](https://github.com/Agent-Kwabbel/Beencrypted/edit/main/README.md#installation-and-use)
+
+[Examples](https://github.com/Agent-Kwabbel/Beencrypted/edit/main/README.md#examples)
+
+[Characters](https://github.com/Agent-Kwabbel/Beencrypted/edit/main/README.md#characters)
+
+[Contribution](https://github.com/Agent-Kwabbel/Beencrypted/edit/main/README.md#contribution)
+
+### Installation and use
+
+##### Use pip
+
+Use pip to install it:
+
+```
+pip install beencrypted
+```
+
+See this project on [PyPi](https://pypi.org/project/beencrypted/).
+
+##### Download
+
+If you want to download and use the package you can download the ```beencrypted/``` folder and place it in your project.
+
+#### Usage
+
+Import the package
+
+```python
+import beencrypted
+
+#import only encrypt or decrypt
+from beencrypted import encrypt
+from beencrypted import decrypt
+
+#import with other name
+import beencrypted as bc
+from beencrypted import encrypt as encr
+```
+
 ### Examples
 
-##### Encryption
+##### Encrypt
 ```python
 from beencrypt
 
 string = "Barry B Benson"
-print(beencrypt.encrypt(string))
+print(beencrypted.encrypt(string))
 ```
 
-##### Decryption
+##### Decrypt
 ```python
 from beencrypt
 
 string = "ToAccordingItsItsLittleCareToCareToLawsShouldWingsBeShould"
-print(beencrypt.decrypt(string))
+print(beencrypted.decrypt(string))
 ```
 ### Characters
 
@@ -28,5 +68,8 @@ Beencryption only supports the Latin alphabet, numbers and some basic symbols. D
 
 ```abcdefghijklmnopqrstuvwxyz1234567890 .,-:;/?!```
 
-###### PyPi
-You can go to [PyPi](https://pypi.org/project/beencrypted/) to install it.
+### Contribution
+
+If you feel like contributing feel free to open issues and give feedback. I'm open to pull requests and you can contact me on Discord with Fabe#1754
+
+<sub>And yes, this is a meme project :)</sub>
