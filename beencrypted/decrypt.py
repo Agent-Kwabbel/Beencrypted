@@ -40,7 +40,9 @@ table = {
  'Think': '-',
  'Posible': ':',
  'Yellow': ';',
- 'Black': '/'
+ 'Black': '/',
+ 'Ooh': '?',
+ 'And': '!'
 }
 
 capitals = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
@@ -72,4 +74,5 @@ def decrypt(string):
                     first = False
                 else:
                     raise Exception('The input was not a Beencrypted string')
+    decrypted += table[current_word]
     return decrypted

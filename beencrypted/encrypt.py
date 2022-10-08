@@ -41,7 +41,9 @@ table = {
     "-": "Think",
     ":": "Posible",
     ";": "Yellow",
-    "/": "Black"
+    "/": "Black",
+    "?": "Ooh",
+    "!": "And"
 }
 
 
