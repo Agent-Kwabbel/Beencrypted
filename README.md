@@ -3,6 +3,8 @@
 If you want to encrypt your strings and want to have the Bee Movie script in your code, then this is the Python package for you!
 With this package, you can encrypt strings to the first part of the Bee Movie script and decrypt it back.
 
+▶️ This project is still under development and obviously don't use this as your secure encryption
+
 ### Examples
 
 ##### Encryption
