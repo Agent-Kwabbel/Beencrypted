@@ -7,18 +7,18 @@ With this package you can encrypt strings to the first part of the Bee Movie sci
 
 ##### Encryption
 ```python
-from beencrypt import encrypt
+from beencrypt
 
 string = "Barry B Benson"
-print(encrypt.encrypt(string))
+print(beencrypt.encrypt(string))
 ```
 
 ##### Decryption
 ```python
-from beencrypt import decrypt
+from beencrypt
 
 string = "ToAccordingItsItsLittleCareToCareToLawsShouldWingsBeShould"
-print(decrypt.decrypt(string))
+print(beencrypt.decrypt(string))
 ```
 ### Characters
 
