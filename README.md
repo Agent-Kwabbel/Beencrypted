@@ -26,5 +26,7 @@ print(beencrypt.decrypt(string))
 
 Beencryption only supports the Latin alphabet, numbers and some basic symbols. Decrypted strings will not have capitals. Letters or symbols that are not supported will have been replaced with "Barry" in the encrypted string and will be lost in decryption.
 
+```abcdefghijklmnopqrstuvwxyz1234567890 .,-:;/?!```
+
 ###### PyPi
 You can go to [PyPi](https://pypi.org/project/beencrypted/) to install it.
